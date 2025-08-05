@@ -15,3 +15,6 @@ inputs = {
   vpc_name   = "dev-vpc"
   region     = local.region
 }
+
+
+########## terragrunt init  , terragrun plan , terragrun apply or terragrun apply -auto-approve
